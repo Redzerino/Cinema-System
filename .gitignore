@@ -1,0 +1,11 @@
+# Compiled classes (rebuilt by run.bat / run.sh)
+bin/
+
+# Local database settings (copy db.properties.example)
+db.properties
+
+# Editor and OS files
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
