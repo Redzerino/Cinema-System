@@ -4,6 +4,8 @@
 
 A Java Swing desktop application for running a cinema: movies, showtimes, screens, seats, bookings, tickets, payments and staff accounts, all backed by a 10-table MySQL database through JDBC.
 
+▶️ **[Watch the walkthrough video](https://youtu.be/F7H5ujrvQqM)**
+
 ## Features
 
 - **Admin login** checked against the database (active Admin accounts only)
