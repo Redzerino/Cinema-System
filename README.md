@@ -4,7 +4,7 @@
 
 A Java Swing desktop application for running a cinema: movies, showtimes, screens, seats, bookings, tickets, payments and staff accounts, all backed by a 10-table MySQL database through JDBC.
 
-▶️ **[Watch the walkthrough video](https://youtu.be/F7H5ujrvQqM)**
+▶️ **[Watch the walkthrough video](https://youtu.be/HKUYq3FQltM)**
 
 ## Features
 
@@ -92,4 +92,4 @@ The code follows a layered design:
 
 ## About
 
-Built by Sarah Crotty for the Object-Oriented Software Development module (CA3) of the BA (Hons) Software Development at SETU Carlow.
+Built by Sarah Crotty for the Object-Oriented Software Development module (CA3) of the BSc (Hons) Software Development at SETU Carlow.
